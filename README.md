@@ -1,2 +1,2 @@
-esse README é do meu primeiro projeto ou seja, estou aprendendo a usar o git e github.
+esse README é do meu primeiro projeto, estou aprendendo a usar o git e github.
 :)
